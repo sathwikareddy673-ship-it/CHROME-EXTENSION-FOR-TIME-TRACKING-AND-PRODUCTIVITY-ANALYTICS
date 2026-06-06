@@ -12,6 +12,10 @@
 
 *MENTOR*: NEEELA SANTOSH
 
+*OUTPUT*: 
+
+<img width="1918" height="1088" alt="Image" src="https://github.com/user-attachments/assets/01c24e9e-7402-495a-984b-de7f68abee2d" />
+
 *DESCRIPTION*: 
 
 **PRODUCTIVITY TRACKER CHROME EXTENSION WITH MONGODB DASHBOARD ANALYTICS
