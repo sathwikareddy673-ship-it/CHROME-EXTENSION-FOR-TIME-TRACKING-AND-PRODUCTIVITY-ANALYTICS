@@ -1,0 +1,26 @@
+body{
+    width:350px;
+    padding:15px;
+    font-family:Arial, sans-serif;
+}
+
+h2{
+    text-align:center;
+    color:#333;
+}
+
+.site{
+    border:1px solid #ddd;
+    border-radius:8px;
+    padding:10px;
+    margin-bottom:10px;
+    background:#f9f9f9;
+}
+
+h3{
+    color:#0066cc;
+}
+
+hr{
+    margin:15px 0;
+}
